@@ -55,7 +55,7 @@ export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
     this.tableDataSource.paginator.pageSize=20;
   }
   ngOnInit(): void {
-    this.load('../assets/contracts.json').subscribe((contracts: any) => {
+    this.load('./assets/contracts.json').subscribe((contracts: any) => {
       this.contracts = contracts;
       this.contracts.forEach((element: any) => {
         element.value = element.value.toLowerCase();
