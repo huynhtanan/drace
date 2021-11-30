@@ -1,0 +1,20 @@
+:ng-deep .mat-form-field-wrapper {
+    width: 220px;
+}
+::ng-deep .mat-form-field-wrapper .mat-input-element:hover {
+   cursor: pointer;
+}
+.date-range-picker-icon {
+    margin-left: -20px;
+    z-index: 1;
+    font-size: 20px;
+    bottom: 12px;
+    position: absolute;
+  }
+  .summary-table .summary-container{
+    padding: 4px 12px 4px 4px;
+    border-right: 2px solid red;
+  }
+  .summary-table .summary-container.last-child-summary{
+    border: 0;
+  }
