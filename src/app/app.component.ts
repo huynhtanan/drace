@@ -113,10 +113,11 @@ export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
     if (!this.selectedDateFrom || !this.selectedDateTo) {
       this.dataSource = this.allDataSource;
     } else {
-      let startTime = new Date(this.selectedDateFrom.getFullYear(), this.selectedDateFrom.getMonth(), this.selectedDateFrom.getDate(), 0, 0, 0, 0);
-      let endTime = new Date(this.selectedDateTo.getFullYear(), this.selectedDateTo.getMonth(), this.selectedDateTo.getDate(), 23, 59, 59, 0);
-      let epouchStartTime = startTime.getTime() / 1000;
-      let epouchEndTime = endTime.getTime() / 1000;
+      // let startTime = new Date(this.selectedDateFrom.getFullYear(), this.selectedDateFrom.getMonth(), this.selectedDateFrom.getDate(), 0, 0, 0, 0);
+      // let endTime = new Date(this.selectedDateTo.getFullYear(), this.selectedDateTo.getMonth(), this.selectedDateTo.getDate(), 23, 59, 59, 0);
+      
+       let epouchStartTime = this.selectedDateFrom.getTime() / 1000;
+       let epouchEndTime = this.selectedDateTo.getTime() / 1000;
       this.dataSource = this.allDataSource.filter((x: { startTime: number; }) => x.startTime >= epouchStartTime && x.startTime <= epouchEndTime);
     }
     this.tableDataSource.data = this.dataSource;
@@ -152,6 +153,11 @@ export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
   datesUpdated(range: any): void {
     this.selectedDateFrom = range.startDate ? range.startDate._d : null;
     this.selectedDateTo = range.endDate ? range.endDate._d : null;
+    if(this.selectedDateFrom&&this.selectedDateTo) {
+      let timeOffset=new Date().getTimezoneOffset()/-60;
+      this.selectedDateFrom.setHours(this.selectedDateFrom.getHours()+timeOffset);
+      this.selectedDateTo.setHours(this.selectedDateTo.getHours()+timeOffset);
+    }
     this.doFilter();
   }
 }
