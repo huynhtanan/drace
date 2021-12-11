@@ -61,5 +61,12 @@
         "car": "zet80",
         "racer": "Jang Hy",
         "paidOn": 1639180800
+    },
+    {
+        "amountDrace": 229.590,
+        "amountXDrace": 633.352,
+        "car": "zet178",
+        "racer": "Hoang Vu",
+        "paidOn": 1639180800
     }
 ]
