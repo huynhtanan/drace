@@ -75,5 +75,12 @@
         "car": "zet90",
         "racer": "@Chaudeptraivcl",
         "paidOn": 1639180800
+    },
+    {
+        "amountDrace": 292.895,
+        "amountXDrace": 883.900,
+        "car": "zet10",
+        "racer": "@banana2023",
+        "paidOn": 1639353600
     }
 ]
