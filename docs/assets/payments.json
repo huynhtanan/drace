@@ -82,5 +82,12 @@
         "car": "zet10",
         "racer": "@banana2023",
         "paidOn": 1639353600
+    },
+    {
+        "amountDrace": 83.261,
+        "amountXDrace": 229.686,
+        "car": "zet178",
+        "racer": "Hoang Vu",
+        "paidOn": 1639440000
     }
 ]
