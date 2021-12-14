@@ -22,12 +22,12 @@
     {
         "value": "0x315d5Ee399e570Ec02D5Df96941D0e35147D7DC9",
         "text": "zet90",
-        "racer": "@Chaudeptraivcl",
+        "racer": "Khoa Hack",
         "description": "7DC9 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 5376.360,
-        "paidAtXDrace": 14279.703
+        "paidAtDrace": 5961.957,
+        "paidAtXDrace": 15897.561
     },
     {
         "value": "0xbAB0c65A5dd4798C83cF832bD845b9b08217D8cA",
@@ -42,11 +42,11 @@
     {
         "value": "0xe1e8Fe439F19E3d89c15F962662FAd3d71AD17E8",
         "text": "zet178",
-        "racer": "Hoang Vu",
+        "racer": "Khoa Hack",
         "description": "17E8 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 2078.376,
-        "paidAtXDrace": 5673.151
+        "paidAtDrace": 2355.913,
+        "paidAtXDrace": 6438.771
     }
 ]
