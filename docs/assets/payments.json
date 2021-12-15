@@ -89,5 +89,12 @@
         "car": "zet178",
         "racer": "Hoang Vu",
         "paidOn": 1639440000
+    },
+    {
+        "amountDrace": 105.377,
+        "amountXDrace": 290.693,
+        "car": "zet178+zet90",
+        "racer": "Khoa Hack",
+        "paidOn": 1639526400
     }
 ]
