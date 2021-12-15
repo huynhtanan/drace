@@ -26,8 +26,8 @@
         "description": "7DC9 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 5961.957,
-        "paidAtXDrace": 15897.561
+        "paidAtDrace": 6121.476,
+        "paidAtXDrace": 16337.613
     },
     {
         "value": "0xbAB0c65A5dd4798C83cF832bD845b9b08217D8cA",
@@ -46,7 +46,7 @@
         "description": "17E8 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 2355.913,
-        "paidAtXDrace": 6438.771
+        "paidAtDrace": 2547.649,
+        "paidAtXDrace": 6967.697
     }
 ]
