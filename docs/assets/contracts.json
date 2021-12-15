@@ -2,7 +2,7 @@
     {
         "value": "0xA2dbCcA24a47CA3D73AcFe272Eaf777A3a212f54",
         "text": "zet54",
-        "racer": "null",
+        "racer": "@CamDrace",
         "description": "2f54 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
@@ -48,5 +48,15 @@
         "paidPercent": 0.3,
         "paidAtDrace": 2547.649,
         "paidAtXDrace": 6967.697
+    },
+    {
+        "value": "0x38129b8974D64F49D2da7208C269ef1789aFFD11",
+        "text": "zet11",
+        "racer": "@Raphael0911",
+        "description": "fd11 - 5x1*",
+        "cars": [],
+        "paidPercent": 0.3,
+        "paidAtDrace": 0,
+        "paidAtXDrace": 0
     }
 ]
