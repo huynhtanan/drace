@@ -58,5 +58,15 @@
         "paidPercent": 0.3,
         "paidAtDrace": 0,
         "paidAtXDrace": 0
+    },
+    {
+        "value": "0xcf5f7024141114838aBA9647d1e34Dc93dF26541",
+        "text": "zet41",
+        "racer": "null",
+        "description": "6541 - 5x1*",
+        "cars": [],
+        "paidPercent": 0,
+        "paidAtDrace": 0,
+        "paidAtXDrace": 0
     }
 ]
