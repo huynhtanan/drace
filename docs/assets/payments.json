@@ -96,5 +96,19 @@
         "car": "zet178+zet90",
         "racer": "Khoa Hack",
         "paidOn": 1639526400
+    },
+    {
+        "amountDrace": 1272.943,
+        "amountXDrace": 0,
+        "car": "zet10",
+        "racer": "@banana2023",
+        "paidOn": 1639612800
+    },
+    {
+        "amountDrace": 161.146,
+        "amountXDrace": 522.426,
+        "car": "zet178+zet90+zet11",
+        "racer": "Khoa Hack",
+        "paidOn": 1639612800
     }
 ]
