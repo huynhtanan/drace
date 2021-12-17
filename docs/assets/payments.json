@@ -110,5 +110,12 @@
         "car": "zet178+zet90+zet11",
         "racer": "Khoa Hack",
         "paidOn": 1639612800
+    },
+    {
+        "amountDrace": 180.70695,
+        "amountXDrace": 599.43681,
+        "car": "zet11",
+        "racer": "@Raphael0911",
+        "paidOn": 1639612800
     }
 ]
