@@ -89,5 +89,40 @@
         "car": "zet178",
         "racer": "Hoang Vu",
         "paidOn": 1639440000
+    },
+    {
+        "amountDrace": 105.377,
+        "amountXDrace": 290.693,
+        "car": "zet178+zet90",
+        "racer": "Khoa Hack",
+        "paidOn": 1639526400
+    },
+    {
+        "amountDrace": 1272.943,
+        "amountXDrace": 0,
+        "car": "zet10",
+        "racer": "@banana2023",
+        "paidOn": 1639612800
+    },
+    {
+        "amountDrace": 161.146,
+        "amountXDrace": 522.426,
+        "car": "zet178+zet90+zet11",
+        "racer": "Khoa Hack",
+        "paidOn": 1639612800
+    },
+    {
+        "amountDrace": 180.70695,
+        "amountXDrace": 599.43681,
+        "car": "zet11",
+        "racer": "@Raphael0911",
+        "paidOn": 1639699200
+    },
+    {
+        "amountDrace": 125.013,
+        "amountXDrace": 421.626,
+        "car": "zet80",
+        "racer": "Huynh Bui",
+        "paidOn": 1639699200
     }
 ]

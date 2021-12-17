@@ -2,8 +2,8 @@
     {
         "value": "0xA2dbCcA24a47CA3D73AcFe272Eaf777A3a212f54",
         "text": "zet54",
-        "racer": "null",
-        "description": "2f54 - 5x1*",
+        "racer": "@CamDrace",
+        "description": "2f54 - 5x2*",
         "cars": [],
         "paidPercent": 0.3,
         "paidAtDrace": 2376.460,
@@ -14,7 +14,7 @@
         "text": "zet10",
         "racer": "@Chaudeptraivcl",
         "description": "1c1d - 5x2*",
-        "cars": [],
+        "cars": [5803],
         "paidPercent": 0.3,
         "paidAtDrace": 13265.118,
         "paidAtXDrace": 36833.086
@@ -26,18 +26,18 @@
         "description": "7DC9 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 5961.957,
-        "paidAtXDrace": 15897.561
+        "paidAtDrace": 6304.385,
+        "paidAtXDrace": 16970.760
     },
     {
         "value": "0xbAB0c65A5dd4798C83cF832bD845b9b08217D8cA",
         "text": "zet80",
-        "racer": "Jang Hy",
+        "racer": "Huynh Bui",
         "description": "D8cA - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 3369.190,
-        "paidAtXDrace": 9131.795
+        "paidAtDrace": 4421.174,
+        "paidAtXDrace": 12327.813
     },
     {
         "value": "0xe1e8Fe439F19E3d89c15F962662FAd3d71AD17E8",
@@ -46,7 +46,27 @@
         "description": "17E8 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 2355.913,
-        "paidAtXDrace": 6438.771
+        "paidAtDrace": 2779.406,
+        "paidAtXDrace": 7654.575
+    },
+    {
+        "value": "0x38129b8974D64F49D2da7208C269ef1789aFFD11",
+        "text": "zet11",
+        "racer": "@Raphael0911",
+        "description": "fd11 - 5x1*",
+        "cars": [],
+        "paidPercent": 0.3,
+        "paidAtDrace": 602.357,
+        "paidAtXDrace": 1998.123
+    },
+    {
+        "value": "0xcf5f7024141114838aBA9647d1e34Dc93dF26541",
+        "text": "zet41",
+        "racer": "Khoa Hack",
+        "description": "6541 - 5x1*",
+        "cars": [],
+        "paidPercent": 0.25,
+        "paidAtDrace": 122.489,
+        "paidAtXDrace": 421.394
     }
 ]
