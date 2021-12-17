@@ -124,5 +124,12 @@
         "car": "zet80",
         "racer": "Huynh Bui",
         "paidOn": 1639699200
+    },
+    {
+        "amountDrace": 46.804,
+        "amountXDrace": 162.012,
+        "car": "zet41",
+        "racer": "Bien Duaxethue",
+        "paidOn": 1639699200
     }
 ]
