@@ -116,6 +116,13 @@
         "amountXDrace": 599.43681,
         "car": "zet11",
         "racer": "@Raphael0911",
-        "paidOn": 1639612800
+        "paidOn": 1639699200
+    },
+    {
+        "amountDrace": 125.013,
+        "amountXDrace": 421.626,
+        "car": "zet80",
+        "racer": "Huynh Bui",
+        "paidOn": 1639699200
     }
 ]
