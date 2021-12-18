@@ -26,8 +26,8 @@
         "description": "7DC9 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 6304.385,
-        "paidAtXDrace": 16970.760
+        "paidAtDrace": 6434.591,
+        "paidAtXDrace": 17421.474
     },
     {
         "value": "0xbAB0c65A5dd4798C83cF832bD845b9b08217D8cA",
@@ -46,8 +46,8 @@
         "description": "17E8 - 5x1*",
         "cars": [],
         "paidPercent": 0.3,
-        "paidAtDrace": 2779.406,
-        "paidAtXDrace": 7654.575
+        "paidAtDrace": 3046.040,
+        "paidAtXDrace": 8577.540
     },
     {
         "value": "0x38129b8974D64F49D2da7208C269ef1789aFFD11",
@@ -66,7 +66,7 @@
         "description": "6541 - 5x1*",
         "cars": [],
         "paidPercent": 0.25,
-        "paidAtDrace": 309.703,
-        "paidAtXDrace": 1069.443
+        "paidAtDrace": 584.720,
+        "paidAtXDrace": 2021.425
     }
 ]
