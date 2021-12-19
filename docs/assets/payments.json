@@ -124,5 +124,26 @@
         "car": "zet80",
         "racer": "Huynh Bui",
         "paidOn": 1639699200
+    },
+    {
+        "amountDrace": 46.804,
+        "amountXDrace": 162.012,
+        "car": "zet41",
+        "racer": "Bien Duaxethue",
+        "paidOn": 1639699200
+    },
+    {
+        "amountDrace": 103.5296,
+        "amountXDrace": 358.3712,
+        "car": "zet80",
+        "racer": "Huynh Bui",
+        "paidOn": 1639803227
+    },
+    {
+        "amountDrace": 257.721,
+        "amountXDrace": 892.112,
+        "car": "zet178+zet90+zet11",
+        "racer": "Khoa Hack",
+        "paidOn": 1639803227
     }
 ]
